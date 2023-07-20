@@ -1,0 +1,17 @@
+{
+    "name": "kelvinwasike007/mpesa-api-php-sdk",
+    "description": "A simple mpesa sdk for Laravel and other frameworks",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kelvin Wasike",
+            "email": "kelvinwasike007@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MpesaSDK\\": "src/"
+        }
+    }
+}
