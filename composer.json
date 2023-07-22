@@ -13,6 +13,5 @@
         "psr-4": {
             "\\Etul\\MpesaSDK\\": "src/"
         }
-    },
-    "version":"1.0.0"
+    }
 }
