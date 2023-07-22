@@ -1,5 +1,5 @@
 {
-    "name": "etul/mpesa-api-php-sdk",
+    "name": "etul/mpesa-php-sdk",
     "description": "A simple mpesa sdk for Laravel and other frameworks",
     "type": "library",
     "license": "MIT",
