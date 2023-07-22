@@ -1,8 +1,8 @@
 <?php
-namespace MpesaSDK;
+namespace Etul\MpesaSDK;
 
 class MpesaSDK{
-    public function authenticate(string $name):string
+    public function test(string $name):string
     {
         if(!$name){
             return "No Name";

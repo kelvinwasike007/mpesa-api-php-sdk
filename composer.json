@@ -1,5 +1,5 @@
 {
-    "name": "kelvinwasike007/mpesa-api-php-sdk",
+    "name": "etul/mpesa-api-php-sdk",
     "description": "A simple mpesa sdk for Laravel and other frameworks",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MpesaSDK\\": "src/"
+            "\\Etul\\MpesaSDK\\": "src/"
         }
     }
 }
